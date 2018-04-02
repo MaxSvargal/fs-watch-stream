@@ -1,0 +1,9 @@
+{
+  "name": "fs-watch-stream",
+  "version": "1.0.0",
+  "description": "Watching for set of files and stream out changes",
+  "main": "index.js",
+  "repository": "https://github.com/MaxSvargal/fs-watch-stream.git",
+  "author": "MaxSvargal",
+  "license": "MIT"
+}
