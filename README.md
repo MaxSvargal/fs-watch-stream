@@ -1,5 +1,5 @@
 # fs-watch-stream
-#### NodeJs library for watching changes of a sets of named files and streaming out their differences. It usable, for example, for streaming server logs to browser in real time.
+#### The NodeJs library that watch for changes of sets of files and stream out their differences. It usable, for example, for streaming server logs to browser in real time.
 
 ### Type definition:
 ```typescript
